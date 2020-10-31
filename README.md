@@ -1,4 +1,4 @@
-# Computational Statistics Proyects with Python: 
+# Computational statistics course projects with Python: 
 
 ### 1.- Calculate fibonacci numbers using Memoization Vs Programming normal.  
 
@@ -42,10 +42,11 @@ With 1000 launches:
 
 ![2](https://user-images.githubusercontent.com/63415652/96049735-13548700-0e3e-11eb-870a-f814800c9bcd.PNG)
 
-And this is my course certificate: 
+---
 
-![certi](https://user-images.githubusercontent.com/63415652/96050515-5bc07480-0e3f-11eb-99f3-a9c3c8b76687.PNG)
+### 5.-And this is my course certificate: 
 
+![certi](https://user-images.githubusercontent.com/63415652/96050515-5bc07480-0e3f-11eb-99f3-a9c3c8b76687.PNG) 
 
 
 
