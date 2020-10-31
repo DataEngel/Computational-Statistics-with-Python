@@ -32,7 +32,7 @@ One method to estimate the value of (3.141592...) is by using a Monte Carlo meth
 
 ![Card](https://user-images.githubusercontent.com/63415652/96048990-04b9a000-0e3d-11eb-989c-8aff7ecc3dc3.PNG)
 
-### Central Limit Theorem.
+### 5.-Central Limit Theorem.
 
 The central limit theorem states that if you have a population with mean μ and standard deviation σ and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed.
 
@@ -44,7 +44,7 @@ With 1000 launches:
 
 ---
 
-### 5.-And this is my course certificate: 
+## And this is my course certificate: 
 
 ![certi](https://user-images.githubusercontent.com/63415652/96050515-5bc07480-0e3f-11eb-99f3-a9c3c8b76687.PNG) 
 
